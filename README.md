@@ -1,3 +1,4 @@
+🚀 **Live Demo:** [kredi-riski-analizi.streamlit.app](https://kredi-riski-analizi.streamlit.app)
 # 🏦 End-to-End Credit Risk Modeling: Econometrics, ML, SHAP & Counterfactual Fairness
 
 This project provides a comprehensive credit risk assessment pipeline using the UCI German Credit Dataset. It bridges classical econometric modeling with advanced machine learning techniques, explainable AI (XAI), algorithmic bias mitigation, and financial cost-sensitive evaluation.
